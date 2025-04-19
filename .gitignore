@@ -1,1 +1,13 @@
+# Virtual environment
 venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Editor and OS files
+.vscode/
+.DS_Store
+
+# dotenv or environment files (if you use a .env to store secrets locally)
+.env
